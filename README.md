@@ -14,3 +14,6 @@ git.commit -m "some message"    <br>
 To upload local repo content to gitHub We Use <br>
 git push origin main 
 
+
+To send a folder(repo) to the git 
+
