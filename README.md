@@ -1,2 +1,3 @@
-# apnacollege-demo
-just for learnig pupose
+GitHubdemo
+by sarthak vyas 
+from bhopal 
