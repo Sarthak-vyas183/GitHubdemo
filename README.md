@@ -9,11 +9,16 @@ statu command --- display the status of code  <br>
 git status
 
 to commit a file from vs code to github <br>
-git add .     /// . (dot) is stand to commit all the file which is updated in vs code 
-git.commit -m "some message"    <br>
+1.git add .     /// . (dot) is stand to commit all the file which is updated in vs code 
+2.git.commit -m "some message"    <br>
 To upload local repo content to gitHub We Use <br>
-git push origin main 
+3.git push origin main 
 
 
 To send a folder(repo) to the git 
-
+1 . git init
+2.  git remote add origin  ..link..
+3. git remote -v    (to verify remote) 
+4. git branch       (to check branch)
+5. git branch -M  (new name of branch) 
+6. gti push origin main 
