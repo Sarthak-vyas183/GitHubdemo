@@ -22,3 +22,14 @@ To send a folder(repo) to the git
 4. git branch       (to check branch)
 5. git branch -M  (new name of branch) 
 6. gti push origin main 
+
+ To in another branch :  
+  To go in another Branch : 
+1. git checkcout <--branch name-->
+2. git checkout <--new branchname-->
+3. git branch -D <--branchname-->  this command use to delete the branch 
+
+To merge two branch 
+to chekc difference : 
+1. git diff main
+2. git merge main
