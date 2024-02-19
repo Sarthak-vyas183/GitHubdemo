@@ -10,4 +10,6 @@ git status
 
 to commit a file from vs code to github <br>
 git add .     /// . (dot) is stand to commit all the file which is updated in vs code 
-git.commit -m "some message"
+git.commit -m "some message"    <br>
+To upload local repo content to gitHub We Use <br>
+git push origin main 
