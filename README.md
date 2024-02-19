@@ -7,3 +7,7 @@ git clone (then past repository link https://............ <br>
 
 statu command --- display the status of code  <br>
 git status
+
+to commit a file from vs code to github <br>
+git add .     /// . (dot) is stand to commit all the file which is updated in vs code 
+git.commit -m "some message"
