@@ -17,11 +17,10 @@ To upload local repo content to gitHub We Use <br>
 
 To send a folder(repo) to the git 
 1 . git init
-2.  git remote add origin  ..link..
-3. git remote -v    (to verify remote) 
-4. git branch       (to check branch)
-5. git branch -M  (new name of branch) 
-6. gti push origin main 
+2. git add .
+3. git commit -m"some message"
+4. git remote add origin <---repository link---->
+5. git push origin main 
 
  To in another branch :  
   To go in another Branch : 
