@@ -32,3 +32,30 @@ To merge two branch
 to chekc difference : 
 1. git diff main
 2. git merge main
+
+
+
+your Team is collaborating to your code .  Hence project development is faster  
+
+
+seven steps of Collaboration : 
+
+1 . Fork the target repo to your own account . 
+2 . Clone the repo to your local machine .
+    I . git clone <--link of repo-->
+
+3 . After colning checkout a new "topic branch" and make changes . 
+         I . git checkout -b <branch name>      eg . git checkout -b login-page
+         II . git branch          (this command is use to check your current working branch)
+
+4 . Puch your Topic branch to your fork . 
+
+5 . commiting : 
+         I git add .
+         2 git commit -am"msg"
+         3 git push origin <branch name> eg  --- git push origin login-page  
+
+6 . creating a Pull request : 
+    go to the github account and click on button compate&pull  
+
+7 . In the author account you go in pull request section then check and merge the code in the main branch .
